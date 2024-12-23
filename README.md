@@ -6,7 +6,6 @@
 🌱 Every day I keep surprising myself with how much I've grown as a developer.  
 ✍️ In my free time, I enjoy staying updated with the latest tech news and working on fun side projects.  
 💬 Feel free to reach out for a consult or collaboration.  
-✉️ You can shoot me an email at [brianngeywo@gmail.com](mailto:brianngeywo@gmail.com) !  
 
 ---
 
@@ -29,7 +28,7 @@
 - X: [Opicho Brian](https://x.com/OpichoKe)  
 - GitHub: [@brianngeywo](https://github.com/brianngeywo)  
 - LinkedIn: [Brian Ngeywo](https://www.linkedin.com/in/brian-ngeywo/)  
-- Email: [brianngeywo@gmail.com](mailto:brianngeywo@gmail.com)  
+- Email: [brianngeywo@gmail.com](mailto:brianngeywo254@gmail.com)  
 
 ## 😄 Pronouns:
 - He/Him
