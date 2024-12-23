@@ -54,6 +54,6 @@
 ---
 
 ## ⚙️ GitHub Analytics
-[[GitHub Trends SVG](https://api.githubtrends.io/user/svg/brianngeywo/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/brianngeywo/langs)](https://githubtrends.io)
 
 ---
