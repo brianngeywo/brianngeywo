@@ -28,7 +28,7 @@
 - X: [Opicho Brian](https://x.com/OpichoKe)  
 - GitHub: [@brianngeywo](https://github.com/brianngeywo)  
 - LinkedIn: [Brian Ngeywo](https://www.linkedin.com/in/brian-ngeywo/)  
-- Email: [brianngeywo@gmail.com](mailto:brianngeywo254@gmail.com)  
+- Email: [opichobrian100@gmail.com](mailto:opichobrian100@gmail.com)  
 
 ## 😄 Pronouns:
 - He/Him
