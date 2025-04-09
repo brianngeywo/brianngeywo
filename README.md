@@ -2,7 +2,9 @@
 
 ## 👨🏻‍💻 About Me
 💡 Exploring new technologies and developing software solutions.
+
 🌱 Always looking for opportunities to improve my skills and build something cool.  
+
 🎓 Studied at the University of Eastern Africa Baraton.  
  
 ---
@@ -19,7 +21,7 @@
 
 ## 👯 I’m looking to collaborate on...
 - Mobile app development
-- Software Architecture Design
+- Software architecture Design
 - Web systems development
 
 
