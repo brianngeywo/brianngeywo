@@ -2,6 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 💡 I love developing highly scalable software solutions. 
+
 🎓 Studied at the University of Eastern Africa Baraton.  
  
 ---
