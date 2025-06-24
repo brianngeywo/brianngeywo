@@ -1,23 +1,21 @@
-# Hey there! I'm Brian Ngeywo 👋
+# Hello! I'm Brian, welcome to my github profile 👋
 
 ## 👨🏻‍💻 About Me
-💡 Exploring new technologies and developing software solutions.
-
-🌱 Always looking for opportunities to improve my skills and build something cool.  
-
+💡 I love developing highly scalable software solutions. 
 🎓 Studied at the University of Eastern Africa Baraton.  
  
 ---
 
-## 🔭 I’m currently working on...
+## 🔭 Previous experiences...
 - **Kasarani Gas Xpress** mobile app
-- **DirectCore InstaCash** mobile app
+- **Swazi InstaCash** mobile app
+- **Pesatel** mobile app
 
 ## 🌱 I’m currently learning...
-- Mobile app development in **Flutter** and **Dart**.
-- **C# and .NET** framework
-- **API Design** in **NodeJS**
-- **Backend Architectures Design**
+- **Enterprise Software architecture**
+- **C# and .NET**
+- **API Design**
+- **Scalable Backend Architectures Design**
 
 ## 👯 I’m looking to collaborate on...
 - Mobile app development
